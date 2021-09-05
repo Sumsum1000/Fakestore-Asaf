@@ -21,7 +21,7 @@ app.use('/api/categories', categoriesRouter);
 
 app.use(express.static('../client/build/'));
 
-const port = process.env.port || 8080;
+const port = process.env.PORT || 8080;
 
 app.listen(port);
 
