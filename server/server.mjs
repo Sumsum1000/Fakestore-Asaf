@@ -27,3 +27,6 @@ app.listen(port);
 
 
 //console.log("Server is listening on http://localhost:8080!");
+
+
+//mongodb+srv://fakestoreuser:fakestoreuser@cluster0.aqk1t.mongodb.net/fakestore?retryWrites=true&w=majority
